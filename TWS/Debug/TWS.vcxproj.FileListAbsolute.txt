@@ -1,0 +1,2 @@
+D:\UniVerse\Practise Projects\C++ and SFML\TWS\TWS\TWS-Project\TWS\Debug\TWS.exe
+D:\UniVerse\Practise Projects\C++ and SFML\TWS\TWS\TWS-Project\TWS\Debug\TWS.pdb
